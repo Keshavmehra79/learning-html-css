@@ -1,0 +1,17 @@
+input::placeholder{
+    color: blue;
+    padding: 30px;
+}
+
+p::selection{
+    color: white;
+    background-color: green;
+}
+
+.head1 {
+    font-family: "Playwrite RO", cursive;
+}
+
+.head2{
+    font-family: "Pacifico", cursive;
+}

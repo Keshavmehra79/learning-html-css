@@ -1,0 +1,28 @@
+h1{
+    font-family: "Edu AU VIC WA NT Arrows", cursive;
+}
+
+h2{
+    font-family: "Playwrite CU", cursive;
+}
+
+.name::after{
+    content: "Mehra";
+    color: red;
+
+}
+.name::before{
+    content: "Mr.";
+    color: blue;
+
+}
+
+.para::before{
+    content: "blue";
+    color: blue;
+}
+
+#ip::placeholder{
+    color: red;
+    padding: 30px;
+}
